@@ -87,21 +87,9 @@ Through Rafiki AI I hope to learn:
 
 ```text
 rafiki-ai/
-│
 ├── README.md
 ├── research/
-│   ├── competitor-analysis.md
-│   ├── goblin-tools.md
-│   ├── khanmigo.md
-│   ├── chatgpt.md
-│   └── future-ideas.md
-│
-├── docs/
-│   └── design-notes.md
-│
-├── prototype/
-│
-└── assets/
+│   └── competitor-analysis.md
 ```
 
 ---
