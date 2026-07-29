@@ -10,7 +10,7 @@ This research is intended to help guide product decisions throughout the develop
 
 | Product | Problem it solves | Strengths | Weaknesses | Ideas for Rafiki AI |
 |---------|-------------------|-----------|------------|---------------------|
-| | | | | |
+| Goblin Tools | Helps neurodivergent users break overwhelming tasks into smaller, manageable steps. | Simple, free, excellent for executive dysfunction, easy to use. | Limited personalisation, mainly text-based, not designed as a long-term learning companion. | Rafiki AI could combine personalized study planning, emotional support, accessibility tools, and personalised AI coaching for university students. |
 
 ---
 
