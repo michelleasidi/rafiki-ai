@@ -85,4 +85,33 @@ Through Rafiki AI I hope to learn:
 
 ## Repository Structure
 
-Coming soon.
+```text
+rafiki-ai/
+│
+├── README.md
+├── research/
+│   ├── competitor-analysis.md
+│   ├── goblin-tools.md
+│   ├── khanmigo.md
+│   ├── chatgpt.md
+│   └── future-ideas.md
+│
+├── docs/
+│   └── design-notes.md
+│
+├── prototype/
+│
+└── assets/
+```
+
+---
+
+## Competitor Research
+
+As part of building Rafiki AI, I am researching existing AI tools to understand their strengths, limitations, and opportunities for innovation.
+
+The goal is **not to copy** existing products, but to learn from them and identify ways Rafiki AI can better support neurodivergent university students while remaining ethical, accessible, and human-centred.
+
+This research will continue throughout the development of the project.
+
+
