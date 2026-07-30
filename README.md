@@ -98,7 +98,7 @@ rafiki-ai/
 
 As part of building Rafiki AI, I am researching existing AI tools to understand their strengths, limitations, and opportunities for innovation.
 
-The goal is **not to copy** existing products, but to learn from them and identify ways Rafiki AI can better support neurodivergent university students while remaining ethical, accessible, and human-centred.
+The goal is **not to replicate** existing products, but to learn from them and identify ways Rafiki AI can better support neurodivergent university students while remaining ethical, accessible, and human-centred.
 
 This research will continue throughout the development of the project.
 
