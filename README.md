@@ -6,7 +6,7 @@
 
 ## About the Project
 
-Rafiki AI is a Human-Centred AI product concept designed to support dyslexic university students throughout their academic journey.
+Rafiki AI is a Human-Centred AI product concept designed to support neurodivergent university students throughout their academic journey.
 
 Rather than replacing learning, Rafiki AI aims to reduce unnecessary cognitive load by simplifying complex academic language, helping students organise coursework, and providing accessible study support.
 
