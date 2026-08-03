@@ -103,3 +103,12 @@ The goal is **not to replicate** existing products, but to learn from them and i
 This research will continue throughout the development of the project.
 
 
+---
+
+## Vision
+
+Rafiki AI exists to help university students feel supported rather than overwhelmed.
+
+The long-term vision is to create a trustworthy AI learning companion that helps students plan, understand, and learn at their own pace while respecting accessibility, privacy, and human-centred design principles.
+
+
