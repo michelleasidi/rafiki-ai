@@ -107,8 +107,10 @@ This research will continue throughout the development of the project.
 
 ## Vision
 
-Rafiki AI exists to help university students feel supported rather than overwhelmed.
+## Vision
 
-The long-term vision is to create a trustworthy AI learning companion that helps students plan, understand, and learn at their own pace while respecting accessibility, privacy, and human-centred design principles.
+Rafiki AI exists to help university students feel supported rather than overwhelmed, reducing cognitive overload through thoughtful, human-centred AI.
+
+The long-term vision is to create a trustworthy AI learning companion that helps students plan, understand, and learn at their own pace while respecting accessibility, privacy, and inclusive design.
 
 
