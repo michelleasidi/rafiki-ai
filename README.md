@@ -1,6 +1,26 @@
+[![Status](https://img.shields.io/badge/status-early--concept-yellow)](#project-status)
+[![Focus](https://img.shields.io/badge/focus-Human--Centred%20AI-blueviolet)](#about-the-project)
+[![License](https://img.shields.io/badge/license-MIT-green)](#license)
+
 # Rafiki AI
 
 > Helping students understand, not just complete, their learning.
+
+---
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Why Rafiki?](#why-rafiki)
+- [Problem](#problem)
+- [Proposed Solution](#proposed-solution)
+- [Project Status](#project-status)
+- [My Learning Goals](#my-learning-goals)
+- [Repository Structure](#repository-structure)
+- [Competitor Research](#competitor-research)
+- [Vision](#vision)
+- [Connect](#connect)
+- [License](#license)
 
 ---
 
@@ -49,22 +69,18 @@ Rafiki AI combines Human-Centred Design and Responsible AI to provide:
 
 ## Project Status
 
-🚧 Early Product Concept
+🚧 **Early Product Concept**
 
-Current focus:
+**In progress:**
+- [x] Problem definition & user research
+- [x] Competitor analysis
+- [ ] Wireframes / low-fidelity prototype
+- [ ] Responsible AI & accessibility framework
+- [ ] MVP build (Python + Flask)
 
-- Product research
-- User-centred design
-- Accessibility
-- Responsible AI
-- Prototype development
+**Current focus:** product research, user-centred design, accessibility, responsible AI
 
-Future focus:
-
-- Python
-- Flask
-- AI integration
-- MVP development
+**Next up:** prototype development, MVP build
 
 ---
 
@@ -85,11 +101,11 @@ Through Rafiki AI I hope to learn:
 
 ## Repository Structure
 
-```text
+```
 rafiki-ai/
 ├── README.md
-├── research/
-│   └── competitor-analysis.md
+└── research/
+    └── competitor-analysis.md
 ```
 
 ---
@@ -100,8 +116,9 @@ As part of building Rafiki AI, I am researching existing AI tools to understand 
 
 The goal is **not to replicate** existing products, but to learn from them and identify ways Rafiki AI can better support neurodivergent university students while remaining ethical, accessible, and human-centred.
 
-This research will continue throughout the development of the project.
+📄 See the full write-up: [`research/competitor-analysis.md`](./research/competitor-analysis.md)
 
+This research will continue throughout the development of the project.
 
 ---
 
@@ -110,5 +127,16 @@ This research will continue throughout the development of the project.
 Rafiki AI exists to help university students feel supported rather than overwhelmed, reducing cognitive overload through thoughtful, human-centred AI.
 
 The long-term vision is to create a trustworthy AI learning companion that helps students plan, understand, and learn at their own pace while respecting accessibility, privacy, and inclusive design.
+
+---
+
+## Connect
+
+If this project resonates with you or you'd like to follow along as it develops:
+
+- LinkedIn: https://www.linkedin.com/in/michelle-asidi-80012b1a8/
+
+---
+
 
 
