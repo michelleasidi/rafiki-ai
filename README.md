@@ -19,7 +19,7 @@
 - [Repository Structure](#repository-structure)
 - [Competitor Research](#competitor-research)
 - [Vision](#vision)
-- [Connect](#connect)
+
 
 ---
 
@@ -129,13 +129,6 @@ The long-term vision is to create a trustworthy AI learning companion that helps
 
 ---
 
-## Connect
-
-If this project resonates with you or you'd like to follow along as it develops:
-
-- LinkedIn: https://www.linkedin.com/in/michelle-asidi-80012b1a8/
-
----
 
 
 
