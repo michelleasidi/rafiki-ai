@@ -1,6 +1,6 @@
 [![Status](https://img.shields.io/badge/status-early--concept-yellow)](#project-status)
 [![Focus](https://img.shields.io/badge/focus-Human--Centred%20AI-blueviolet)](#about-the-project)
-[![License](https://img.shields.io/badge/license-MIT-green)](#license)
+
 
 # Rafiki AI
 
@@ -20,7 +20,6 @@
 - [Competitor Research](#competitor-research)
 - [Vision](#vision)
 - [Connect](#connect)
-- [License](#license)
 
 ---
 
