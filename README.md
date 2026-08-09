@@ -105,7 +105,8 @@ Through Rafiki AI I hope to learn:
 rafiki-ai/
 ├── README.md
 └── research/
-    └── competitor-analysis.md
+    ├── competitor-analysis.md
+    └── interview-questions.md
 ```
 
 ---
