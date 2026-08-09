@@ -25,7 +25,7 @@ The goal is to surface **specific, condition-relevant detail** while keeping the
 
 ## Why this last question matters
 
-This directly tests whether **integration** (bundling text simplification + task breakdown + deadline tracking in one place) is the actual unmet need — versus students preferring best-in-class single-purpose tools for each task individually. This is the central competitive risk identified in the [competitor analysis](./competitor-analysis.md): tools like Goblin Tools and Read&Write each solve one piece of this well, but neither bundles all of it for the university context specifically.
+This directly tests whether **integration** (bundling text simplification + task breakdown + deadline tracking in one place) is the actual unmet need — versus students preferring best-in-class single-purpose tools for each task individually. This is the central competitive risk identified in the [competitor analysis](./competitor-analysis.md): tools like Goblin Tools, which each solve one piece of this well, but neither bundles all of it for the university context specifically.
 
 ## Research framing
 
