@@ -43,14 +43,14 @@ The name reflects the goal of creating an AI companion that supports students wi
 
 ## Problem
 
-Many neurodivergent university students — including those with dyslexia, ADHD, autism, and dyscalculia — experience challenges such as:
+Many neurodivergent university students experience challenges such as:
 
 - understanding complex academic language
 - managing multiple deadlines
 - cognitive overload during independent study
 - reading lengthy journal articles
 - breaking large assignments into manageable tasks
-- navigating unclear or ambiguous instructions
+- sensory or attention-related barriers to sustained study sessions
   
 ---
 
