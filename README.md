@@ -25,11 +25,18 @@
 
 ## About the Project
 
-Rafiki AI is a Human-Centred AI product concept designed to support neurodivergent university students throughout their academic journey.
+Rafiki AI is a Human-Centred AI product concept designed to support neurodivergent university students throughout their academic journey. 
+
+### What does "neurodivergent" mean?
+
+Neurodivergent essentially means that a person’s brain naturally works differently from others. This shows up as how they focus, process information, and/or manage tasks. This includes ADHD, autism, and dyslexia, among others. 
+
+This does not mean that something is “wrong” with those within the neurodivergence spectrum; it just means that most university systems were not built with their way of thinking in mind. Inclusivity matters here because they are just as capable as anyone else.
+
 
 Rather than replacing learning, Rafiki AI aims to reduce unnecessary cognitive load by simplifying complex academic language, helping students organise coursework, and providing accessible study support.
 
-This repository documents my end-to-end product thinking process, from identifying a real-world problem to designing an ethical AI solution.
+This repository documents my end-to-end product thinking process, from identifying a real-world problem to designing a human-centred AI solution.
 
 ---
 
@@ -37,7 +44,7 @@ This repository documents my end-to-end product thinking process, from identifyi
 
 "Rafiki" means **friend** in Swahili.
 
-The name reflects the goal of creating an AI companion that supports students with empathy, accessibility and trust rather than replacing their own learning.
+The name reflects the goal of creating an AI companion that supports students with empathy, accessibility, and trust rather than replacing their own learning.
 
 ---
 
